@@ -1,0 +1,253 @@
+{
+  "siteTitle": "THE HUNT",
+  "subtitle": "A little mystery. A few strange clues. One way forward.",
+  "introTitle": "Your hunt begins here.",
+  "introText": "Welcome, player. Follow the clues, solve each stage, and see where the trail leads.",
+  "musicTitle": "The Soundtrack Test",
+  "musicIntro": "Identify each track. You get three attempts per question, with a longer clip each time.",
+  "questionsToUnlock": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Question 1 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-1-10s.mp3",
+        "assets/audio/question-1-15s.mp3",
+        "assets/audio/question-1-20s.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Question 2 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-2-10s.mp3",
+        "assets/audio/question-2-15s.mp3",
+        "assets/audio/question-2-20s.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Question 3 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-3-10s.mp3",
+        "assets/audio/question-3-15s.mp3",
+        "assets/audio/question-3-20s.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Question 4 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-4-10s.mp3",
+        "assets/audio/question-4-15s.mp3",
+        "assets/audio/question-4-20s.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Question 5 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-5-10s.mp3",
+        "assets/audio/question-5-15s.mp3",
+        "assets/audio/question-5-20s.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Question 6 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-6-10s.mp3",
+        "assets/audio/question-6-15s.mp3",
+        "assets/audio/question-6-20s.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Question 7 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-7-10s.mp3",
+        "assets/audio/question-7-15s.mp3",
+        "assets/audio/question-7-20s.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Question 8 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-8-10s.mp3",
+        "assets/audio/question-8-15s.mp3",
+        "assets/audio/question-8-20s.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Question 9 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-9-10s.mp3",
+        "assets/audio/question-9-15s.mp3",
+        "assets/audio/question-9-20s.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Question 10 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-10-10s.mp3",
+        "assets/audio/question-10-15s.mp3",
+        "assets/audio/question-10-20s.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Question 11 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-11-10s.mp3",
+        "assets/audio/question-11-15s.mp3",
+        "assets/audio/question-11-20s.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Question 12 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-12-10s.mp3",
+        "assets/audio/question-12-15s.mp3",
+        "assets/audio/question-12-20s.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Question 13 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-13-10s.mp3",
+        "assets/audio/question-13-15s.mp3",
+        "assets/audio/question-13-20s.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Question 14 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-14-10s.mp3",
+        "assets/audio/question-14-15s.mp3",
+        "assets/audio/question-14-20s.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Question 15 \u2014 add your Undertale/Deltarune music question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "answerIndex": 0,
+      "clips": [
+        "assets/audio/question-15-10s.mp3",
+        "assets/audio/question-15-15s.mp3",
+        "assets/audio/question-15-20s.mp3"
+      ]
+    }
+  ],
+  "nextStageTitle": "Stage 2 unlocked",
+  "nextStageText": "You made it through the music challenge. Add your next clue here."
+}
