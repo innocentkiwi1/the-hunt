@@ -1,0 +1,253 @@
+{
+  "siteTitle": "THE HUNT",
+  "subtitle": "A little mystery. A few strange clues. One way forward.",
+  "introTitle": "Your hunt starts here.",
+  "introText": "Follow the clues, solve each stage, and see where the trail leads.",
+  "quizTitle": "The Soundtrack Test",
+  "quizIntro": "Identify each track. You get three attempts per question, with a longer clip each time.",
+  "questionsToUnlock": 10,
+  "nextStageTitle": "The next clue",
+  "nextStageText": "Congratulations. You have unlocked the next stage. Add your next clue in Host Setup.",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "Question 1 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-1-10s.mp3",
+        "15": "assets/audio/question-1-15s.mp3",
+        "20": "assets/audio/question-1-20s.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "prompt": "Question 2 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-2-10s.mp3",
+        "15": "assets/audio/question-2-15s.mp3",
+        "20": "assets/audio/question-2-20s.mp3"
+      }
+    },
+    {
+      "id": 3,
+      "prompt": "Question 3 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-3-10s.mp3",
+        "15": "assets/audio/question-3-15s.mp3",
+        "20": "assets/audio/question-3-20s.mp3"
+      }
+    },
+    {
+      "id": 4,
+      "prompt": "Question 4 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-4-10s.mp3",
+        "15": "assets/audio/question-4-15s.mp3",
+        "20": "assets/audio/question-4-20s.mp3"
+      }
+    },
+    {
+      "id": 5,
+      "prompt": "Question 5 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-5-10s.mp3",
+        "15": "assets/audio/question-5-15s.mp3",
+        "20": "assets/audio/question-5-20s.mp3"
+      }
+    },
+    {
+      "id": 6,
+      "prompt": "Question 6 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-6-10s.mp3",
+        "15": "assets/audio/question-6-15s.mp3",
+        "20": "assets/audio/question-6-20s.mp3"
+      }
+    },
+    {
+      "id": 7,
+      "prompt": "Question 7 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-7-10s.mp3",
+        "15": "assets/audio/question-7-15s.mp3",
+        "20": "assets/audio/question-7-20s.mp3"
+      }
+    },
+    {
+      "id": 8,
+      "prompt": "Question 8 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-8-10s.mp3",
+        "15": "assets/audio/question-8-15s.mp3",
+        "20": "assets/audio/question-8-20s.mp3"
+      }
+    },
+    {
+      "id": 9,
+      "prompt": "Question 9 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-9-10s.mp3",
+        "15": "assets/audio/question-9-15s.mp3",
+        "20": "assets/audio/question-9-20s.mp3"
+      }
+    },
+    {
+      "id": 10,
+      "prompt": "Question 10 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-10-10s.mp3",
+        "15": "assets/audio/question-10-15s.mp3",
+        "20": "assets/audio/question-10-20s.mp3"
+      }
+    },
+    {
+      "id": 11,
+      "prompt": "Question 11 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-11-10s.mp3",
+        "15": "assets/audio/question-11-15s.mp3",
+        "20": "assets/audio/question-11-20s.mp3"
+      }
+    },
+    {
+      "id": 12,
+      "prompt": "Question 12 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-12-10s.mp3",
+        "15": "assets/audio/question-12-15s.mp3",
+        "20": "assets/audio/question-12-20s.mp3"
+      }
+    },
+    {
+      "id": 13,
+      "prompt": "Question 13 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-13-10s.mp3",
+        "15": "assets/audio/question-13-15s.mp3",
+        "20": "assets/audio/question-13-20s.mp3"
+      }
+    },
+    {
+      "id": 14,
+      "prompt": "Question 14 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-14-10s.mp3",
+        "15": "assets/audio/question-14-15s.mp3",
+        "20": "assets/audio/question-14-20s.mp3"
+      }
+    },
+    {
+      "id": 15,
+      "prompt": "Question 15 \u2014 add your question here",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "audio": {
+        "10": "assets/audio/question-15-10s.mp3",
+        "15": "assets/audio/question-15-15s.mp3",
+        "20": "assets/audio/question-15-20s.mp3"
+      }
+    }
+  ]
+}
