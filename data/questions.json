@@ -1,24 +1,24 @@
 {
-  "siteTitle": "THE HUNT",
+  "siteTitle": "Undertal song quiz",
   "subtitle": "A little mystery. A few strange clues. One way forward.",
-  "introTitle": "Your hunt starts here.",
-  "introText": "Follow the clues, solve each stage, and see where the trail leads.",
-  "quizTitle": "The Soundtrack Test",
+  "introTitle": "Rules",
+  "introText": "I love you so much my love I hope you have fun!!!",
+  "quizTitle": "Undertal song quiz",
   "quizIntro": "Identify each track. You get three attempts per question, with a longer clip each time.",
   "questionsToUnlock": 10,
-  "nextStageTitle": "The next clue",
-  "nextStageText": "Congratulations. You have unlocked the next stage. Add your next clue in Host Setup.",
+  "nextStageTitle": "I'm proud of you",
+  "nextStageText": "WELLLL DONE YOU DID IT!!!!",
   "questions": [
     {
       "id": 1,
-      "prompt": "Question 1 \u2014 add your question here",
+      "prompt": "First question you got this!!!!! I LOVE YOU!!!! ",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Song That Might Play When You Fight Sans",
+        "Megalovania",
+        "Bonetrousle",
+        "Death by Glamour"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "audio": {
         "10": "assets/audio/question-1-10s.mp3",
         "15": "assets/audio/question-1-15s.mp3",
@@ -27,14 +27,14 @@
     },
     {
       "id": 2,
-      "prompt": "Question 2 \u2014 add your question here",
+      "prompt": "I miss you and I wish I was with you",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "NGAHHH!",
+        "Ront",
+        "Spear of Justice",
+        "Battle Against a True Hero"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "audio": {
         "10": "assets/audio/question-2-10s.mp3",
         "15": "assets/audio/question-2-15s.mp3",
@@ -43,12 +43,12 @@
     },
     {
       "id": 3,
-      "prompt": "Question 3 \u2014 add your question here",
+      "prompt": "You are the most amazing person ever",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "ASGORE",
+        "Bergentrückung",
+        "Determination",
+        "Heartache"
       ],
       "correctIndex": 0,
       "audio": {
@@ -59,14 +59,14 @@
     },
     {
       "id": 4,
-      "prompt": "Question 4 \u2014 add your question here",
+      "prompt": "You are my priority everythinggggggg elseeee!!!!",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Waterfall",
+        "Another Medium",
+        "It's Raining Somewhere Else",
+        "CORE"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "audio": {
         "10": "assets/audio/question-4-10s.mp3",
         "15": "assets/audio/question-4-15s.mp3",
@@ -75,12 +75,12 @@
     },
     {
       "id": 5,
-      "prompt": "Question 5 \u2014 add your question here",
+      "prompt": "YOU ARE THE MOST BEAUTIFUL PERSON EVER!!!!",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "It's Raining Somewhere Else",
+        "Premonition",
+        "Home",
+        "sans"
       ],
       "correctIndex": 0,
       "audio": {
@@ -91,14 +91,14 @@
     },
     {
       "id": 6,
-      "prompt": "Question 6 \u2014 add your question here",
+      "prompt": "I can't believe I am dating someone as amazing as gorgeous as I am really lucky!!",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Metal Crusher",
+        "CORE",
+        "It's Showtime!",
+        "Death by Glamour"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "audio": {
         "10": "assets/audio/question-6-10s.mp3",
         "15": "assets/audio/question-6-15s.mp3",
@@ -107,14 +107,14 @@
     },
     {
       "id": 7,
-      "prompt": "Question 7 \u2014 add your question here",
+      "prompt": "You are so perfect for me :))",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Dummy!",
+        "Pathetic House",
+        "Spider Dance",
+        "Ghost Fight"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "audio": {
         "10": "assets/audio/question-7-10s.mp3",
         "15": "assets/audio/question-7-15s.mp3",
@@ -123,14 +123,14 @@
     },
     {
       "id": 8,
-      "prompt": "Question 8 \u2014 add your question here",
+      "prompt": "You are so kind and loving",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Nyeh Heh Heh!",
+        "sans",
+        "Snowdin Town",
+        "Dating Start!"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "audio": {
         "10": "assets/audio/question-8-10s.mp3",
         "15": "assets/audio/question-8-15s.mp3",
@@ -139,12 +139,12 @@
     },
     {
       "id": 9,
-      "prompt": "Question 9 \u2014 add your question here",
+      "prompt": "I love everything about you",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Undertale",
+        "His Theme",
+        "I LOVE YOU MUCHHHHHH",
+        "Mercury"
       ],
       "correctIndex": 0,
       "audio": {
@@ -155,14 +155,14 @@
     },
     {
       "id": 10,
-      "prompt": "Question 10 \u2014 add your question here",
+      "prompt": "I am so excited to spend our entire lives together",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Retro",
+        "Home",
+        "I wish I was with you so much",
+        "Fallen Down"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "audio": {
         "10": "assets/audio/question-10-10s.mp3",
         "15": "assets/audio/question-10-15s.mp3",
@@ -171,12 +171,12 @@
     },
     {
       "id": 11,
-      "prompt": "Question 11 \u2014 add your question here",
+      "prompt": "I am obsessed with all of you",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Ghost Fight",
+        "Spider Dance",
+        "Spooktune",
+        "Dummy!"
       ],
       "correctIndex": 0,
       "audio": {
@@ -187,14 +187,14 @@
     },
     {
       "id": 12,
-      "prompt": "Question 12 \u2014 add your question here",
+      "prompt": "I wish I could hug you",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Nyeh Heh Heh!",
+        "Dating Start!",
+        "Bonetrousle",
+        "sans"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "audio": {
         "10": "assets/audio/question-12-10s.mp3",
         "15": "assets/audio/question-12-15s.mp3",
@@ -203,14 +203,14 @@
     },
     {
       "id": 13,
-      "prompt": "Question 13 \u2014 add your question here",
+      "prompt": "You make me feel so safe",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Death by Glamour",
+        "Metal Crusher",
+        "It's Showtime!",
+        "Power of \"NEO\""
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "audio": {
         "10": "assets/audio/question-13-10s.mp3",
         "15": "assets/audio/question-13-15s.mp3",
@@ -219,14 +219,14 @@
     },
     {
       "id": 14,
-      "prompt": "Question 14 \u2014 add your question here",
+      "prompt": "I am really happy with you",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "NGAHHH!",
+        "Spear of Justice",
+        "Power of \"NEO\"",
+        "Battle Against a True Hero"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "audio": {
         "10": "assets/audio/question-14-10s.mp3",
         "15": "assets/audio/question-14-15s.mp3",
@@ -235,12 +235,12 @@
     },
     {
       "id": 15,
-      "prompt": "Question 15 \u2014 add your question here",
+      "prompt": "I LOVEEEEEE YOUUUUUUUUU!!!!!!!!",
       "options": [
-        "Option A",
-        "Option B",
-        "Option C",
-        "Option D"
+        "Heartache",
+        "ASGORE",
+        "Fallen Down",
+        "Bergentrückung"
       ],
       "correctIndex": 0,
       "audio": {
