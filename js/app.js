@@ -31,7 +31,7 @@ function choose(choice){
   correct++;stopAudio();$('feedback').innerHTML='<span class="good">Correct! Well done.</span>';finishQuestion();return;
  }
  attempt++;
- if(attempt===1){$('feedback').innerHTML='<span class="bad">Not quite. Try again — here is a longer clip.</span>';loadClip(15);}
+  if(attempt===1){$('feedback').innerHTML='<span class="bad">Not quite. Try again — here is a longer clip.</span>';loadClip(15);}
  else if(attempt===2){$('feedback').innerHTML='<span class="bad">Not that one. One final attempt with an even longer clip.</span>';loadClip(20);}
  else{$('feedback').innerHTML=`<span class="bad">The correct answer was ${String.fromCharCode(65+Number(q.correctIndex))}. ${esc(q.options[q.correctIndex])}.</span>`;stopAudio();finishQuestion();}
 }
